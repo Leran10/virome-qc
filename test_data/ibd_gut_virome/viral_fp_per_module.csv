@@ -1,0 +1,6 @@
+module,total_removed,viral_reads_removed,true_contaminants_removed
+Dedup,242915,238562,4353
+PhiX filter,1137,705,432
+rRNA filter,9857,0,9857
+Host filter,2111,0,2111
+Pair concordance,73554,73554,0

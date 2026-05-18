@@ -1,0 +1,11 @@
+module,read_type,count
+Dedup,True duplicates removed,238562
+Dedup,Viral reads lost,4353
+PhiX filter,True PhiX removed,432
+PhiX filter,Viral reads lost,705
+rRNA filter,True rRNA removed,9857
+rRNA filter,Viral reads lost,0
+Host filter,True host removed,2111
+Host filter,Viral reads lost,0
+Pair concordance,Mate of removed read,73554
+Pair concordance,Viral reads lost,73554

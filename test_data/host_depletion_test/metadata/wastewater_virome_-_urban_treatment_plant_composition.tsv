@@ -1,0 +1,501 @@
+genome_id	genome_name	sequence_type	length	relative_abundance	family
+GCF_000845325.1	Vibrio phage Vf33, complete genome	viral	7965	0.192226360077165	Inoviridae
+GCF_002829345.1	Eriocheir sinensis reovirus strain WX-2012 segment 1 VP1 gene, partial cds	viral	23913	0.035804566371556955	Sedoreoviridae
+GCF_001831345.1	Pigeon adenovirus 2 isolate YPDS-Y-V1.A19.11-2013, complete genome	viral	41981	0.03345696560298084	Adenoviridae
+GCF_000847185.1	Yaba-like disease virus, complete genome	viral	144575	0.02773555077149041	Poxviridae
+GCF_000856345.1	Acute bee paralysis virus, complete genome	viral	9491	0.02056175692611244	Dicistroviridae
+GCF_000903935.1	Moroccan pepper virus isolate MPV-PM75, complete genome	viral	4772	0.020117930079820167	Tombusviridae
+GCF_021090305.1	Uncultured phage cr25_1, complete genome	viral	94533	0.019956381925731858	Crevaviridae
+GCF_000852585.1	Deformed wing virus, complete genome	viral	10140	0.01968500357321401	Iflaviridae
+GCF_004786995.1	Turkey calicivirus isolate L11043 polyprotein and small basic protein (small basic protein) genes, complete cds	viral	7656	0.01937782296691956	Caliciviridae
+GCF_000853805.1	Aichivirus B genomic RNA, complete genome, strain:U-1	viral	8374	0.01882133274032638	Picornaviridae
+GCF_000855165.1	Ovine astrovirus, complete genome	viral	6440	0.01784595314688043	Astroviridae
+GCF_002285005.1	Fathead minnow calicivirus polyprotien and putative minor structural protein genes, complete cds	viral	6564	0.017318293108246053	Caliciviridae
+GCF_000897475.1	Gallivirus A1 strain turkey/M176/2011/HUN, complete genome	viral	8496	0.015823429550846355	Picornaviridae
+GCF_000856885.1	Canine adenovirus type 2, complete genome	viral	31323	0.015440611874250684	Adenoviridae
+GCF_000847245.1	Simian adenovirus 21, complete genome	viral	35524	0.012406042995801062	Adenoviridae
+GCF_021090275.1	Uncultured phage cr54_1, complete genome	viral	97536	0.011937621455025225	Intestiviridae
+GCF_000926335.1	Erinnyis ello granulovirus, complete genome	viral	102759	0.009645130652966889	Baculoviridae
+GCF_000924935.1	Ralstonia phage RS603 DNA, complete genome	viral	7679	0.008868696135351684	Inoviridae
+GCF_001879265.1	Cherry associated luteovirus, complete genome	viral	5857	0.007391770743735008	Tombusviridae
+GCF_015161115.1	CrAssphage cr127_1, complete genome	viral	83412	0.006917966766924112	Crevaviridae
+GCF_000857885.1	Human adenovirus type 35, complete genome	viral	34794	0.00682060438593505	Adenoviridae
+GCF_000848565.1	Soybean dwarf virus genomic RNA, complete genome, strain:YS	viral	5853	0.0067367549272340805	Tombusviridae
+GCF_013088485.1	Ovine adenovirus 8 strain 7508, complete genome	viral	36206	0.006473407815459071	Adenoviridae
+GCF_000929035.1	Psittacine adenovirus 3 isolate HKU/Parrot19, complete genome	viral	31735	0.006127393348687323	Adenoviridae
+GCF_000888635.1	Turkey adenovirus 1, complete genome	viral	45413	0.005793831918655517	Adenoviridae
+GCF_000922075.1	Pigeonpox virus isolate FeP2, complete genome	viral	282356	0.005748265025619269	Poxviridae
+GCF_002817335.1	Rosavirus M-7 polyprotein gene, complete cds	viral	8749	0.00571442463675597	Picornaviridae
+GCF_000862345.1	Murine hepatitis virus strain MHV-A59 C12 mutant, complete genome	viral	31357	0.005437232783111837	Coronaviridae
+GCF_000920015.1	California sea lion adenovirus 1 strain Zc11-030, complete genome	viral	31709	0.005302953202329347	Adenoviridae
+GCF_001029005.1	Ampivirus A1 strain NEWT/2013/HUN, complete genome	viral	9246	0.005137198389883647	Picornaviridae
+GCF_000855725.1	Barley stripe mosaic virus RNA 1, complete sequence	viral	10221	0.005043454631447875	Virgaviridae
+GCF_000892975.1	Yoka poxvirus, complete genome	viral	175699	0.004280895459821319	Poxviridae
+GCF_000893815.1	Bat adenovirus 2, complete genome	viral	31616	0.004266498465517272	Adenoviridae
+GCF_000869665.1	Possum enterovirus W1, complete genome	viral	7390	0.004261020322301196	Picornaviridae
+GCF_009617825.1	Porcine mastadenovirus B isolate HNU1, complete genome	viral	31743	0.0041818564716712475	Adenoviridae
+GCF_016528255.1	Bacteroides phage crAss002, complete genome	viral	93030	0.0038450885028360245	Intestiviridae
+GCF_000847705.1	Vesicular exanthema of swine virus, complete genome	viral	8284	0.0038212328014045898	Caliciviridae
+GCF_001725835.1	Rousettus bat coronavirus isolate GCCDC1 356, complete genome	viral	30161	0.003801874232691114	Coronaviridae
+GCF_015161075.1	CrAssphage cr116_1, complete genome	viral	101082	0.003613799374889952	Steigviridae
+GCF_000913475.1	Simian adenovirus 18, complete genome	viral	31967	0.003606135841802163	Adenoviridae
+GCF_001924155.1	Plodia interpunctella granulovirus isolate Cambridge, complete genome	viral	112536	0.003558599292453238	Baculoviridae
+GCF_000851625.1	Nebraska virus, complete genome	viral	7453	0.003007414415179183	Caliciviridae
+GCF_001271115.2	Opium poppy mosaic virus isolate PHEL5235, complete genome	viral	4230	0.0028917799615960455	Tombusviridae
+GCF_002818015.1	Recombinant adenovirus and mutant adenovirus induced from bovine adenovirus type 1	viral	34185	0.0027984234717600264	Adenoviridae
+GCF_000895415.1	Wigeon coronavirus HKU20, complete genome	viral	26227	0.002552670870335566	Coronaviridae
+GCF_000857785.1	European brown hare syndrome virus, complete genome	viral	7442	0.0024371363482578665	Caliciviridae
+GCF_000879875.1	Miniopterus bat coronavirus HKU8, complete genome	viral	28773	0.0023097623820669774	Coronaviridae
+GCF_000861265.1	Rhinovirus B14, complete sequence	viral	7212	0.0022984580874465307	Picornaviridae
+GCF_000847625.1	Sacbrood virus complete genome	viral	8832	0.00222659883032252	Iflaviridae
+GCF_000849945.1	Cowden I virus, complete genome	viral	7320	0.002223609866257185	Caliciviridae
+GCF_000862965.1	Avian infectious bronchitis virus, complete genome	viral	27608	0.0022006948651068104	Coronaviridae
+GCF_001745695.1	Skunkpox virus strain WA, complete genome	viral	222832	0.0021489078413278943	Poxviridae
+GCF_000896875.1	White-eye coronavirus HKU16, complete genome	viral	26041	0.002146126733119624	Coronaviridae
+GCF_015224295.1	Diachasmimorpha longicaudata entomopoxvirus, complete genome	viral	252940	0.002057035457945288	Poxviridae
+GCF_000869725.1	Crassocephalum yellow vein virus - Jinghong, complete genome	viral	2745	0.0019214487620406089	Unknown
+GCF_000899495.1	Rousettus bat coronavirus HKU10, complete genome	viral	28494	0.0018823625634083832	Coronaviridae
+GCF_000890155.1	Rotavirus D chicken/05V0049/DEU/2005 segment 1, complete genome	viral	18500	0.0018474482243874004	Unknown
+GCF_029886455.1	Olene mendosa nucleopolyhedrovirus isolate 435, complete genome	viral	142291	0.0017705117091161501	Baculoviridae
+GCF_006425375.1	Psittacine adenovirus 1 isolate 18VIR149_ITA_2018, complete genome	viral	38694	0.0017456023316418882	Adenoviridae
+GCF_000853425.1	Mink astrovirus, complete genome	viral	6610	0.0016971929581262046	Astroviridae
+GCF_001736695.1	Mamastrovirus 1 genomic RNA, complete genome, isolate: V1347	viral	6673	0.0016963770775976243	Astroviridae
+GCF_001443985.1	Sicinivirus A1 isolate JSY, complete genome	viral	9809	0.0016819078568491464	Picornaviridae
+GCF_006450915.1	Eastern grey kangaroopox virus strain Sunshine Coast, complete genome	viral	167359	0.0016517682865539451	Poxviridae
+GCF_001430155.1	Simian adenovirus 13 strain P-9, complete genome	viral	32939	0.0016371226418853983	Adenoviridae
+GCF_000844245.1	Bovine adenovirus 3 complete genome	viral	34446	0.0015971655036154011	Adenoviridae
+GCF_000883155.1	Agrotis ipsilon multiple nucleopolyhedrovirus, complete genome	viral	155122	0.0015952893018032852	Baculoviridae
+GCF_001921595.1	Livupivirus A1 strain newt/II-5-Pilis/2014/HUN, complete genome	viral	7768	0.0015891604444948746	Picornaviridae
+GCF_015160975.1	CrAssphage cr118_1, complete genome	viral	92600	0.001584515701194522	Suoliviridae
+GCF_018591195.1	Bearded dragon adenovirus 1 strain BD5H2, complete genome	viral	35275	0.0015743957910099552	Adenoviridae
+GCF_000838125.1	Culex nigripalpus NPV, complete genome	viral	108252	0.001553346104912784	Baculoviridae
+GCF_000844185.1	Bovine adenovirus type 2, complete genome	viral	33034	0.0015437249589201388	Adenoviridae
+GCF_003085835.1	Poecivirus BCCH-449 polyprotein gene, complete cds	viral	7653	0.0014887609387371093	Picornaviridae
+GCF_012271575.1	Infectious bronchitis virus isolate Ind-TN92-03, complete genome	viral	27464	0.0014876506701152357	Coronaviridae
+GCF_002354985.1	Eptesipox virus strain Washington, complete genome	viral	176688	0.0014713496287823234	Poxviridae
+GCF_003443495.1	IAS virus, complete genome	viral	99915	0.0014316094156497537	Steigviridae
+GCF_000901155.1	Middle East respiratory syndrome-related coronavirus isolate HCoV-EMC/2012, complete genome	viral	30119	0.0014314400866881313	Coronaviridae
+GCF_006452035.1	Akhmeta virus isolate Akhmeta_2013-88, complete genome	viral	221923	0.0013885423268512162	Poxviridae
+GCF_000918135.1	Mosavirus A2 strain SZAL6-MoV/2011/HUN, complete genome	viral	8398	0.0013879310422708583	Picornaviridae
+GCF_000864365.1	Yunnan orbivirus segment 1, complete sequence	viral	19816	0.0013782359944152507	Sedoreoviridae
+GCF_002818135.1	Tree shrew adenovirus 1, complete genome	viral	33501	0.0013359306676037888	Adenoviridae
+GCF_000851725.1	Tobacco bushy top virus, complete genome	viral	4152	0.001329513144895017	Tombusviridae
+GCF_000870505.1	Tylonycteris bat coronavirus HKU4, complete genome	viral	30286	0.0012612902722911434	Coronaviridae
+GCF_000885915.1	Porcine adenovirus C, complete genome	viral	32621	0.0012503591438649988	Adenoviridae
+GCF_000894355.2	Bat adenovirus 3 strain TJM, complete genome	viral	31806	0.0012207020046037546	Adenoviridae
+GCF_015161145.1	CrAssphage cr53_1, complete genome	viral	101153	0.001182340754235078	Suoliviridae
+GCF_000856065.1	Palyam virus segment 1, complete sequence	viral	18915	0.0011674936374136454	Sedoreoviridae
+GCF_000889615.1	Murine adenovirus 2, complete genome	viral	35203	0.0011600234234103817	Adenoviridae
+GCF_023156815.1	Acheta domesticus iflavirus isolate SE:1050, complete genome	viral	18143	0.0010993732115928644	Iflaviridae
+GCF_000859045.1	Barley yellow dwarf virus - PAV, complete genome	viral	5677	0.001061630634923109	Tombusviridae
+GCF_000858645.1	Human adenovirus type 1, complete genome	viral	36001	0.0010279317919097521	Adenoviridae
+GCF_000838965.1	Epiphyas postvittana NPV, complete genome	viral	118584	0.001003388484503896	Baculoviridae
+GCF_000890055.1	Turdivirus 1, complete genome	viral	8035	0.0009998587438032982	Picornaviridae
+GCF_002816535.1	Equine rhinitis A virus strain PERV-1, complete genome	viral	7782	0.000989283028559227	Picornaviridae
+GCF_000875265.1	Saffold virus 2, complete genome	viral	7961	0.0009800004693451259	Picornaviridae
+GCF_000847325.1	Simian adenovirus 1, complete genome	viral	34450	0.0009424805886258249	Adenoviridae
+GCF_000858365.1	Pelargonium necrotic spot virus, complete genome	viral	4744	0.0009159249269537333	Tombusviridae
+GCF_021090295.1	Uncultured phage cr9_1, complete genome	viral	92361	0.0008784483320124526	Intestiviridae
+GCF_000870985.1	Scotophilus bat coronavirus 512, complete genome	viral	28203	0.0008624064775556785	Coronaviridae
+GCF_021090285.1	Uncultured phage cr18_1, complete genome	viral	104564	0.0008511697356558066	Steigviridae
+GCF_002745915.1	Enterobacteria phage M13 isolate WT variety Rutgers, complete genome	viral	6407	0.0008389047855342661	Inoviridae
+GCF_002816555.1	Foot-and-mouth disease virus O isolate o6pirbright iso58, complete genome	viral	8201	0.0008318780265724818	Picornaviridae
+GCF_000839185.1	Cowpox virus, complete genome	viral	224499	0.0008075689546880936	Poxviridae
+GCF_000859465.1	Human adenovirus 2, complete genome	viral	35937	0.0008014835634764418	Adenoviridae
+GCF_000853865.1	Human Coronavirus NL63, complete genome	viral	27553	0.0007807810626526562	Coronaviridae
+GCF_002816495.1	Nilaparvata lugens honeydew virus-1 genomic RNA, complete genome, isolate: Izumo	viral	10967	0.0007753189932282736	Iflaviridae
+GCF_002194425.1	Mamastrovirus 2 isolate K321, complete genome	viral	6347	0.0007664786437525793	Astroviridae
+GCF_000836925.1	Enterobacteria phage If1, complete genome	viral	8454	0.000764228729058284	Inoviridae
+GCF_000843365.1	Vibrio phage VSK, complete genome	viral	6882	0.0007552648031155958	Inoviridae
+GCF_000849745.1	Porcine adenovirus 3, complete genome	viral	34094	0.000712969520284235	Adenoviridae
+GCF_000893195.1	Vibrio phage CTXphi, complete genome	viral	10638	0.0007123504804205223	Inoviridae
+GCF_000859645.1	Pepper mild mottle virus, complete genome	viral	6357	0.0007115935839637024	Virgaviridae
+GCF_000912775.1	Wallal virus isolate 927 segment 1, complete sequence	viral	19180	0.0007095046727677195	Sedoreoviridae
+GCF_000909795.1	Hemileuca sp. nucleopolyhedrovirus, complete genome	viral	140633	0.0006860419978205187	Baculoviridae
+GCF_000921315.1	Pigeon adenovirus 1 complete genome, strain IDA4	viral	45480	0.0006533822605407849	Adenoviridae
+GCF_000871585.1	Spodoptera litura granulovirus, complete genome	viral	124121	0.0006347704343337728	Baculoviridae
+GCF_000919195.1	Atlantic salmon calicivirus isolate Nordland/2011, complete genome	viral	7443	0.0006244868745241809	Caliciviridae
+GCF_002829425.1	Lebombo virus isolate SAAR 3896 segment 1, complete sequence	viral	19247	0.0005963856316381758	Sedoreoviridae
+GCF_021090265.1	Uncultured phage cr44_1, complete genome	viral	93564	0.0005944984997023208	Steigviridae
+GCF_002610105.1	Ralstonia phage Rs551, complete genome	viral	7929	0.0005834562445493425	Inoviridae
+GCF_000848065.1	Tree shrew adenovirus 1, complete genome	viral	33501	0.0005680111000002267	Adenoviridae
+GCF_000858765.1	Human coronavirus HKU1, complete genome	viral	29926	0.000533975792691526	Coronaviridae
+GCF_013087415.1	Picornaviridae sp. rodent/Ds/PicoV/IM2014 polyprotein (QKJ61_gp1) gene, complete cds	viral	7780	0.0005306566163069141	Picornaviridae
+GCF_000897015.1	Chimpanzee adenovirus Y25, complete genome	viral	36711	0.0005242173105489406	Adenoviridae
+GCF_008767155.1	Feline calicivirus, complete genome	viral	7690	0.0005155245882643009	Caliciviridae
+GCF_000853345.1	Feline calicivirus, complete genome	viral	7683	0.0005155076610096868	Caliciviridae
+GCF_002816725.1	Human enterovirus 68 strain Fermon, complete genome	viral	7367	0.0005150606431195237	Picornaviridae
+GCF_001695465.1	Pteropox virus strain Australia, complete genome	viral	133492	0.0005126983544779138	Poxviridae
+GCF_002868635.1	Japanese soil-borne wheat mosaic virus genomic RNA 1 for 152-kDa protein, 59-kDa readthrough protein, 37-kDa movement protein, complete and partial cds	viral	10800	0.0004953594825377763	Virgaviridae
+GCF_002618945.1	Coliphage ID32, complete genome	viral	6071	0.0004799891611245933	Microviridae
+GCF_000842705.1	Ovine adenovirus 7, complete genome	viral	29576	0.00045946897226680915	Adenoviridae
+GCF_000879775.1	Bovine rhinitis B virus 1, complete genome	viral	7556	0.0004527971411616125	Picornaviridae
+GCF_015161175.1	CrAssphage cr109_1, complete genome	viral	99168	0.000452746529828583	Suoliviridae
+GCF_000904975.1	Bovine adenovirus 6 strain 671130, complete genome	viral	30024	0.0004509026772294677	Adenoviridae
+GCF_015161055.1	CrAssphage cr111_1, complete genome	viral	102434	0.00044813129290434156	Steigviridae
+GCF_000857865.1	Human adenovirus 5, complete genome	viral	35938	0.0004436492010438488	Adenoviridae
+GCF_015160995.1	CrAssphage cr3_1, complete genome	viral	91101	0.00044053961302672155	Intestiviridae
+GCF_000860085.1	Vaccinia virus, complete genome	viral	194711	0.00044040881588056633	Poxviridae
+GCF_000849085.1	Rhopalosiphum padi virus, complete genome	viral	10011	0.0004353791105471495	Dicistroviridae
+GCF_000924095.1	Gallivirus A1 isolate 518C, complete genome	viral	8432	0.0004275770991121268	Picornaviridae
+GCF_021090185.1	Uncultured phage cr30_1, complete genome	viral	99984	0.0004211671678281589	Suoliviridae
+GCF_004130875.1	Apple luteovirus 1 isolate PA8, complete genome	viral	6001	0.0004204894466783074	Tombusviridae
+GCF_021090235.1	Uncultured phage cr91_1, complete genome	viral	93391	0.00041785527540921753	Intestiviridae
+GCF_001184905.1	Wad Medani virus isolate SUD1952/01 segment 1 RNA-dependent RNA polymerase (VP1) gene, complete cds	viral	18009	0.0004148968275703065	Sedoreoviridae
+GCF_011900305.1	Pseudomonas phage crassa, complete genome	viral	66295	0.00041348104687642873	Lindbergviridae
+GCF_000851405.1	Plautia stali intestine virus RNA for nonstructural polyprotein, capsid protein precursor, complete cds	viral	8797	0.00041002109943509487	Dicistroviridae
+GCF_000926915.1	Bat Hp-betacoronavirus/Zhejiang2013, complete genome	viral	31491	0.00040500222112407094	Coronaviridae
+GCF_000842845.1	Vibrio phage fs1, complete genome	viral	6340	0.0003950073510559346	Inoviridae
+GCF_015161005.1	CrAssphage cr10_1, complete genome	viral	99985	0.00038948758841893553	Suoliviridae
+GCF_000859485.1	Human adenovirus type 7, complete genome	viral	35514	0.0003811886333569176	Adenoviridae
+GCF_002816685.1	Coxsackievirus B3 mRNA, complete genome	viral	7399	0.00037586972520976456	Picornaviridae
+GCF_000856805.1	Carrot mottle mimic umbravirus (CMoMV) dsRNA1, complete genome	viral	4201	0.0003667869440091295	Tombusviridae
+GCF_000839525.1	Chlamydia phage Chp1, complete genome	viral	4877	0.0003610321173824105	Microviridae
+GCF_000921575.1	Megrivirus C2 isolate 27C, complete genome	viral	9591	0.0003550179205347991	Picornaviridae
+GCF_004133385.1	Elderberry aureusvirus 1 isolate B17 coat protein (CP) gene, complete cds	viral	1134	0.0003543675606456775	Tombusviridae
+GCF_000847885.1	Enterobacteria phage I2-2, complete genome	viral	6744	0.00034154734738981455	Inoviridae
+GCF_001430555.1	Simian adenovirus 8 strain P-5, complete genome	viral	35685	0.00032772714008673354	Adenoviridae
+GCF_004786795.1	Tulane virus nonstructural polyprotein, capsid protein, and minor structural protein VP2 genes, complete cds	viral	6714	0.00032591073618429555	Caliciviridae
+GCF_000845705.1	Yaba monkey tumor virus, complete genome	viral	134721	0.00032551535383670534	Poxviridae
+GCF_000851065.1	Broad bean necrosis virus RNA 1, complete sequence	viral	10848	0.00032470080582309074	Virgaviridae
+GCF_001963095.1	Chicken calicivirus strain RS/BR/2015, complete genome	viral	8176	0.00032440716436551894	Caliciviridae
+GCF_000861285.1	Rabbit hemorrhagic disease virus-FRG, complete genome	viral	7437	0.0003219866684125652	Caliciviridae
+GCF_021090315.1	Uncultured phage cr17_1, complete genome	viral	91714	0.0003218459938867383	Intestiviridae
+GCF_002602125.1	Ralstonia phage RS611 DNA, complete genome	viral	6386	0.0003185401212992803	Inoviridae
+GCF_000890695.1	Simian adenovirus 49, complete genome	viral	35499	0.00031580042209844743	Adenoviridae
+GCF_000915935.1	Choristoneura murinana alphabaculovirus strain Darmstadt, complete genome	viral	124688	0.000309340827507206	Baculoviridae
+GCF_002614425.1	Coliphage ID52, complete genome	viral	5538	0.0003025663612787646	Microviridae
+GCF_002816835.1	Human rhinovirus 1 strain ATCC VR-1559, complete genome	viral	7137	0.00030185441359248757	Picornaviridae
+GCF_004788035.1	Rabovirus B1 isolate RtMp-PicoV/YN2014, partial genome	viral	7278	0.0002920480891459236	Picornaviridae
+GCF_004117155.1	Apple necrotic mosaic virus genomic RNA, segment RNA1, complete sequence	viral	8101	0.0002882321157267845	Bromoviridae
+GCF_002816655.1	Human coxsackievirus A2 strain Fleetwood, complete genome	viral	7398	0.00028541335747064584	Picornaviridae
+GCF_003972325.1	Human coronavirus OC43 strain ATCC VR-759, complete genome	viral	30741	0.0002818317986812977	Coronaviridae
+GCF_015161025.1	CrAssphage cr8_1, complete genome	viral	92668	0.0002799693468414598	Intestiviridae
+GCF_000875645.1	Rhinolophus bat coronavirus HKU2, complete genome	viral	27165	0.0002785092405590684	Coronaviridae
+GCF_000846825.1	Porcine adenovirus 5, complete genome	viral	32621	0.00027718730390584984	Adenoviridae
+GCF_001904885.1	NL63-related bat coronavirus strain BtKYNL63-9a, complete genome	viral	28363	0.00027323530112083143	Coronaviridae
+GCF_000883935.1	Vibrio phage VEJphi, complete genome	viral	6842	0.00027117027792702405	Inoviridae
+GCF_000884755.1	Murine adenovirus 3, complete genome	viral	30570	0.0002674369548165828	Adenoviridae
+GCF_000908815.1	Stenotrophomonas phage phiSMA7 proviral complete genome	viral	7069	0.00026574441120977554	Inoviridae
+GCF_000856005.1	Oat golden stripe virus RNA1 complete genome	viral	10343	0.0002506980629950775	Virgaviridae
+GCF_000897155.1	Goose adenovirus 4, complete genome	viral	43376	0.0002476908842575581	Adenoviridae
+GCF_001430595.1	Simian adenovirus 16 strain C-8, complete genome	viral	35159	0.00024716241957482263	Adenoviridae
+GCF_015161295.1	CrAssphage cr273_1, complete genome	viral	97886	0.0002458813408376014	Suoliviridae
+GCF_014042105.1	Vibrio phage VAI1, complete genome	viral	6117	0.00024251445251986367	Inoviridae
+GCF_000837165.1	Vibrio phage VfO3K6, complete genome	viral	8784	0.00024250842897346323	Inoviridae
+GCF_002921685.1	Enterobacteria phage f1 isolate f1_2_FR, complete genome	viral	6407	0.00024190324588872154	Inoviridae
+GCF_000839985.1	Spiroplasma phage 4, complete genome	viral	4421	0.00022721819437032	Microviridae
+GCF_000839965.1	Swinepox virus, complete genome	viral	146454	0.00022704817646566712	Poxviridae
+GCF_000927095.2	Mamastrovirus 3 isolate PAstV-GX1, complete genome	viral	6705	0.00022660749068310947	Astroviridae
+GCF_000914375.1	Buzura suppressaria nucleopolyhedrovirus isolate Hubei, complete genome	viral	120420	0.00022448908973485802	Baculoviridae
+GCF_015161265.1	CrAssphage cr130_1, complete genome	viral	94826	0.00022332581876572787	Suoliviridae
+GCF_015161225.1	CrAssphage cr114_1, complete genome	viral	98308	0.00022321842921808375	Suoliviridae
+GCF_011900995.1	Escherichia phage EC6098, complete genome	viral	4526	0.0002230600869020305	Microviridae
+GCF_001714455.1	Equine adenovirus 1 strain M1, complete genome	viral	32690	0.00021264304471506026	Adenoviridae
+GCF_000881795.1	Blackberry chlorotic ringspot virus RNA1, complete genome	viral	8647	0.00020845637793262124	Bromoviridae
+GCF_001684625.1	Enterovirus A114 strain V13-0285, partial genome	viral	7317	0.00020221929479817	Picornaviridae
+GCF_021090225.1	Uncultured phage cr36_1, complete genome	viral	96466	0.0001976559292212854	Intestiviridae
+GCF_001271175.1	Equine adenovirus 2 isolate EAdV2.385/75.9, complete genome	viral	33090	0.00019515039102161087	Adenoviridae
+GCF_000838865.1	Bdellovibrio phage phiMH2K, complete genome	viral	4594	0.00018709204097032094	Microviridae
+GCF_000819615.1	Escherichia phage phiX174, complete genome	viral	5386	0.00017706920674376753	Microviridae
+GCF_021090635.1	Uncultured phage cr16_1, complete genome	viral	104752	0.00017309876940555766	Suoliviridae
+GCF_021090345.1	Uncultured phage cr61_1, complete genome	viral	98573	0.00017127490267368234	Suoliviridae
+GCF_000853605.1	Johnsongrass chlorotic stripe mosaic virus, complete genome	viral	4421	0.0001704025685762463	Tombusviridae
+GCF_001629885.2	Callinectes sapidus reovirus 1 segment 1 VP1 gene, complete cds	viral	23909	0.00016548894180036104	Sedoreoviridae
+GCF_000856165.1	Simian sapelovirus 1, complete genome	viral	8126	0.00016344420991166853	Picornaviridae
+GCF_015161255.1	CrAssphage cr125_1, complete genome	viral	98095	0.00015823173230296867	Suoliviridae
+GCF_002816235.1	Porcine coronavirus HKU15 strain HKU15-155, complete genome	viral	25425	0.00015754228051575043	Coronaviridae
+GCF_021090615.1	Uncultured phage cr82_1, complete genome	viral	102100	0.00015679438235798997	Suoliviridae
+GCF_015160935.1	CrAssphage cr50_1, complete genome	viral	98826	0.00015557234749246133	Suoliviridae
+GCF_000923915.1	Duck adenovirus 2 strain GR, complete genome	viral	43734	0.0001537032611062363	Adenoviridae
+GCF_015161105.1	CrAssphage cr128_1, complete genome	viral	95150	0.0001505578706197707	Steigviridae
+GCF_015160985.1	CrAssphage cr1_1, complete genome	viral	99882	0.00014558083837089712	Suoliviridae
+GCF_000843625.1	Neodiprion sertifer NPV, complete genome	viral	86462	0.0001446471775831986	Baculoviridae
+GCF_021090355.1	Uncultured phage cr12_1, complete genome	viral	96892	0.00014287235863519586	Suoliviridae
+GCF_013387685.1	Bacteroides phage DAC15, complete genome	viral	99494	0.00013775452933559337	Steigviridae
+GCF_000896895.1	Common moorhen coronavirus HKU21, complete genome	viral	26223	0.00013773529057997707	Coronaviridae
+GCF_021090245.1	Uncultured phage cr99_1, complete genome	viral	98001	0.0001364401153829117	Intestiviridae
+GCF_002219645.1	Red squirrel adenovirus 1 strain DE/2013/Sciurus vulgaris/2013Pa405-00252, complete genome	viral	35030	0.0001339425213889727	Adenoviridae
+GCF_002618885.1	Coliphage ID21, complete genome	viral	6068	0.0001328410661464319	Microviridae
+GCF_000907695.1	Barley yellow dwarf virus Ker-II isolate K439, complete genome	viral	5736	0.00013066970418274362	Tombusviridae
+GCF_001962315.1	Lucheng Rn rat coronavirus isolate Lucheng-19, complete genome	viral	28763	0.00012992615172446604	Coronaviridae
+GCF_002985995.1	Transmissible gastroenteritis virus complete genome, genomic RNA	viral	28586	0.0001293540167644318	Coronaviridae
+GCF_021090365.1	Uncultured phage cr105_1, complete genome	viral	100650	0.00012524021974830193	Suoliviridae
+GCF_002618965.1	Coliphage ID62, complete genome	viral	6051	0.0001224040901419074	Microviridae
+GCF_009858895.2	Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome	viral	29903	0.00012154647496418214	Coronaviridae
+GCF_002618925.1	Coliphage NC29, complete genome	viral	6259	0.0001177326229135845	Microviridae
+GCF_018584005.1	Patrinia mild mottle virus, complete genome	viral	4214	0.00011712140161448938	Tombusviridae
+GCF_000841505.1	Cryptophlebia leucotreta granulovirus, complete genome	viral	110907	0.00010922493377829825	Baculoviridae
+GCF_001430375.1	Simian adenovirus 19 strain AA153, complete genome	viral	34064	0.00010861360473350517	Adenoviridae
+GCF_000887875.1	Mud crab dicistrovirus, complete genome	viral	10436	0.00010721453693067624	Dicistroviridae
+GCF_003442555.1	Bacteroides phage crAss001, complete genome	viral	102679	0.00010566446660133812	Steigviridae
+GCF_000848685.1	Porcine epidemic diarrhea virus, complete genome	viral	28033	0.00010562304205577315	Coronaviridae
+GCF_000870245.1	Ralstonia phage RSM1, complete genome	viral	9004	0.00010197362615908531	Inoviridae
+GCF_015161215.1	CrAssphage cr113_1, complete genome	viral	98557	9.929466898135972e-05	Suoliviridae
+GCF_000857845.1	Canine adenovirus 1, complete genome	viral	30536	9.928922505990999e-05	Adenoviridae
+GCF_002607145.1	Ralstonia phage RSS-TH1 DNA, complete genome	viral	7273	9.844775212817372e-05	Inoviridae
+GCF_015161065.1	CrAssphage cr112_1, complete genome	viral	102301	9.765358348571052e-05	Steigviridae
+GCF_000884975.1	Enterobacteria phage St-1, complete genome	viral	6094	9.725956874291568e-05	Microviridae
+GCF_002818095.1	Porcine adenovirus 3 strain 6618, complete genome	viral	34094	9.008817978924942e-05	Adenoviridae
+GCF_015161285.1	CrAssphage cr272_1, complete genome	viral	98667	8.885179151525023e-05	Suoliviridae
+GCF_000852265.1	Obuda pepper virus, complete genome	viral	6507	8.50182752698031e-05	Virgaviridae
+GCF_000912195.1	Turkey adenovirus 4 isolate TNI1, complete genome	viral	42940	8.239063349417357e-05	Adenoviridae
+GCF_000913615.1	Squirrel poxvirus strain Red squirrel UK complete genome	viral	148803	8.220814401886989e-05	Poxviridae
+GCF_021090325.1	Uncultured phage cr2_1, complete genome	viral	95815	8.210001368219525e-05	Crevaviridae
+GCF_015161095.1	CrAssphage cr126_1, complete genome	viral	99212	8.076489429753465e-05	Steigviridae
+GCF_023124615.1	Tylonycteris bat coronavirus HKU33 strain GZ151867, complete genome	viral	27636	8.045561914556492e-05	Coronaviridae
+GCF_000853305.1	Aphid lethal paralysis virus, complete genome	viral	9812	7.671515644225019e-05	Dicistroviridae
+GCF_001654205.1	Catopsilia pomona nucleopolyhedrovirus isolate 416, complete genome	viral	128058	7.645035116239066e-05	Baculoviridae
+GCF_001904845.1	Simian mastadenovirus WIV19, complete genome	viral	33562	7.526729160109087e-05	Adenoviridae
+GCF_029885965.1	Trabala vishnou gigantina nucleopolyhedrovirus, complete genome	viral	165657	7.516810920857798e-05	Baculoviridae
+GCF_002618865.1	Coliphage NC35, complete genome	viral	6039	7.483667772332452e-05	Microviridae
+GCF_015161185.1	CrAssphage cr4_1, complete genome	viral	96055	7.419987868369751e-05	Suoliviridae
+GCF_013088515.1	Psittacine adenovirus 1 isolate GB 818-3 hexon gene, partial cds	viral	1125	7.164845666813677e-05	Adenoviridae
+GCF_000839785.1	Cydia pomonella granulovirus, complete genome	viral	123500	6.857726457665281e-05	Baculoviridae
+GCF_000879035.1	Orgyia leucostigma NPV, complete genome	viral	156179	6.55338450453498e-05	Baculoviridae
+GCF_009734245.1	MAG: Carjivirus communis, complete genome	viral	97065	5.892373640376155e-05	Intestiviridae
+GCF_002157455.1	Urbanus proteus nucleopolyhedrovirus isolate Southern Brazil, complete genome	viral	105555	5.7873437488715325e-05	Baculoviridae
+GCF_006400995.1	White sturgeon adenovirus 1 isolate WSAdV1/1996, complete genome	viral	48395	5.780566702658837e-05	Adenoviridae
+GCF_000886295.1	Pseudocowpox virus, complete genome	viral	145289	5.646725859444945e-05	Poxviridae
+GCF_000846145.1	Enterobacteria phage alpha3, complete genome	viral	6087	5.537013468896396e-05	Microviridae
+GCF_009901755.1	Xanthomonas phage XaF13, complete genome	viral	7045	5.3910686336137585e-05	Inoviridae
+GCF_021090215.1	Uncultured phage cr151_1, complete genome	viral	100314	5.2994583064783807e-05	Steigviridae
+GCF_015160945.1	CrAssphage cr55_1, complete genome	viral	98340	5.0991159141648515e-05	Suoliviridae
+GCF_000848905.1	Simian adenovirus 25, complete genome	viral	36519	4.885474517517663e-05	Adenoviridae
+GCF_000918175.1	Rosavirus 2 strain GA7403, complete genome	viral	8931	4.855598344121101e-05	Picornaviridae
+GCF_018586905.1	Siadenovirus IDL19-3602, complete genome	viral	27163	4.765380793915499e-05	Adenoviridae
+GCF_002622345.1	Xanthomonas phage Xf409, complete genome	viral	8280	4.608223163200286e-05	Inoviridae
+GCF_021090375.1	Uncultured phage cr19_1, complete genome	viral	100255	4.546045838339458e-05	Suoliviridae
+GCF_000851965.1	Cowpea mottle virus, complete genome	viral	4029	4.423158150889085e-05	Tombusviridae
+GCF_002816855.1	Human rhinovirus 3, complete genome	viral	7208	4.4098643301776435e-05	Picornaviridae
+GCF_000846705.1	Simian adenovirus 3, complete genome	viral	34246	4.279472868241441e-05	Adenoviridae
+GCF_000859825.1	Pothos latent virus genes for replicase, capsid protein and movement protein	viral	4415	3.965760324747651e-05	Tombusviridae
+GCF_000916855.1	Anomala cuprea entomopoxvirus DNA, complete genome, strain: CV6M	viral	245717	3.723758176104965e-05	Poxviridae
+GCF_000879495.1	Brugmansia mild mottle virus, complete genome	viral	6381	3.639839601695849e-05	Virgaviridae
+GCF_000864545.1	Enterobacteria phage ID2 Moscow/ID/2001, complete genome	viral	5486	3.544336356228045e-05	Microviridae
+GCF_000883215.1	Ralstonia phage RSM3 DNA, complete genome	viral	8929	3.368666974007277e-05	Inoviridae
+GCF_000846985.1	Vibrio phage KSF-1phi, complete genome	viral	7107	3.2793779183122425e-05	Inoviridae
+GCF_015160955.1	CrAssphage cr107_1, complete genome	viral	93787	3.162710878512597e-05	Intestiviridae
+GCF_015161165.1	CrAssphage cr60_1, complete genome	viral	100198	2.7892852544429404e-05	Suoliviridae
+GCF_000905275.1	Simian adenovirus 20 strain ATCC VR-541, complete genome	viral	34302	2.614409229915231e-05	Adenoviridae
+GCF_023123105.1	Hyphantria cunea granulovirus isolate Hc1, complete genome	viral	114825	2.5602939695815528e-05	Baculoviridae
+GCF_018584825.1	MAG: Corella adenovirus 1 isolate CorAdV1/Melbourne/2015, complete genome	viral	27209	2.4224841220409534e-05	Adenoviridae
+GCF_000868765.1	Maracuja mosaic virus, complete genome	viral	6794	2.3752053578801476e-05	Virgaviridae
+GCF_000849225.1	Cucumber green mottle mosaic virus, complete genome	viral	6424	2.3283236239885087e-05	Virgaviridae
+GCF_000868825.1	Spodoptera frugiperda MNPV virus, complete genome	viral	131331	2.2681102350597726e-05	Baculoviridae
+GCF_015161125.1	CrAssphage cr271_1, complete genome	viral	92815	2.2218304826232245e-05	Intestiviridae
+GCF_021090605.1	Uncultured phage cr150_1, complete genome	viral	101130	2.0744125495781823e-05	Suoliviridae
+GCF_002610085.1	Xanthomonas phage Xf109, complete genome	viral	7190	2.070465419816748e-05	Inoviridae
+GCF_021090655.1	Uncultured phage cr23_1, complete genome	viral	98182	1.91728191219731e-05	Suoliviridae
+GCF_002957465.1	Ralstonia phage RSIBR3, complete genome	viral	6945	1.845463401241998e-05	Inoviridae
+GCF_003456955.1	MAG: CrAssphage sp. isolate ctbg_1, complete genome	viral	94878	1.807372722667245e-05	Intestiviridae
+GCF_000885675.1	Human adenovirus 54, complete genome	viral	34920	1.7937588454987135e-05	Adenoviridae
+GCF_015161045.1	CrAssphage cr110_1, complete genome	viral	89781	1.693437134736389e-05	Intestiviridae
+GCF_021090625.1	Uncultured phage cr29_1, complete genome	viral	104085	1.6770163029862265e-05	Suoliviridae
+GCF_900098775.1	Bottlenose dolphin adenovirus 1 isolate BdAdV-1_2014 genome assembly, chromosome: I	viral	34080	1.634821417083196e-05	Adenoviridae
+GCF_000850345.1	Bean leafroll virus, complete genome	viral	5964	1.6167729266675154e-05	Tombusviridae
+GCF_000850805.1	Tulare apple mosaic virus RNA1, complete sequence	viral	8632	1.5983799667503523e-05	Bromoviridae
+GCF_002618845.1	Coliphage WA45, complete genome	viral	6068	1.5916853204951905e-05	Microviridae
+GCF_001275455.1	Chlamydia phage phiCPAR39, complete sequence	viral	4532	1.5590329546576674e-05	Microviridae
+GCF_001443765.1	Hepatovirus H2 isolate M32Eidhel2010 genomic sequence	viral	7333	1.54610055781677e-05	Picornaviridae
+GCF_002618905.1	Coliphage NC28, complete genome	viral	6065	1.4779647443375024e-05	Microviridae
+GCF_015161195.1	CrAssphage cr6_1, complete genome	viral	97422	1.4613373093153466e-05	Suoliviridae
+GCF_021090195.1	Uncultured phage cr123_1, complete genome	viral	92241	1.4043940539430097e-05	Intestiviridae
+GCF_015161035.1	CrAssphage cr108_1, complete genome	viral	101437	1.3764839321369178e-05	Steigviridae
+GCF_000857005.1	Choristoneura fumiferana multiple nucleopolyhedrovirus, complete genome	viral	129593	1.352527367075138e-05	Baculoviridae
+GCF_002921365.1	Enterobacteria phage f1 DNA, complete genome, isolate: NBRC 20015	viral	6407	1.326747901692732e-05	Inoviridae
+GCF_021090255.1	Uncultured phage cr77_1, complete genome	viral	99704	1.2324665671977612e-05	Suoliviridae
+GCF_002633435.1	Azobacteroides phage ProJPt-Bp1 DNA, complete sequence	viral	99517	1.1939990158862322e-05	Suoliviridae
+GCF_015161235.1	CrAssphage cr115_1, complete genome	viral	99848	1.0343502104451802e-05	Suoliviridae
+GCF_000836805.1	Guinea pig Chlamydia phage, complete genome	viral	4529	1.01673432090876e-05	Microviridae
+GCF_000841525.1	Ralstonia phage p12J, complete genome	viral	7118	1.0028954689530897e-05	Inoviridae
+GCF_000849665.1	Chlamydia phage Chp2, complete genome	viral	4563	8.802408157846232e-06	Microviridae
+GCF_021090335.1	Uncultured phage cr13_1, complete genome	viral	92132	8.3612660646528e-06	Crevaviridae
+GCF_015161275.1	CrAssphage cr131_1, complete genome	viral	96717	7.991343869813482e-06	Suoliviridae
+GCF_015161205.1	CrAssphage cr7_1, complete genome	viral	103832	7.383422622876024e-06	Suoliviridae
+GCF_021090175.1	Uncultured phage cr49_1, complete genome	viral	92367	7.294090591072131e-06	Intestiviridae
+GCF_001504835.1	Bacteriophage phiK complete genome	viral	6089	7.1670087406911044e-06	Microviridae
+GCF_015160965.1	CrAssphage cr106_1, complete genome	viral	101662	6.172183763790961e-06	Steigviridae
+GCF_000861785.1	Cassia yellow blotch virus RNA1, complete sequence	viral	7988	5.692356965617631e-06	Bromoviridae
+GCF_000902595.1	Ralstonia phage RSS0, complete genome	viral	7288	5.504837208110962e-06	Inoviridae
+GCF_000909615.1	Cellulophaga phage phi14:2, complete genome	viral	100418	5.244940032038056e-06	Steigviridae
+GCF_000887395.1	Slow bee paralysis virus, complete genome	viral	9505	4.918555144496344e-06	Iflaviridae
+GCF_004788355.1	Rabovirus D1 isolate MPV/NYC/2014/M005/0074, partial genome	viral	7112	4.366530273314136e-06	Picornaviridae
+GCF_000840785.1	Genome of phage G4 (coliphage)	viral	5577	4.184015722979613e-06	Microviridae
+GCF_021090205.1	Uncultured phage cr149_1, complete genome	viral	100971	3.8947873098075705e-06	Suoliviridae
+GCF_015161085.1	CrAssphage cr85_1, complete genome	viral	98164	3.476407610911654e-06	Steigviridae
+GCF_000837925.1	Vibrio phage fs2, complete genome	viral	8651	3.4402157644091158e-06	Inoviridae
+GCF_002601625.1	Xanthomonas phage XacF1 DNA, complete genome	viral	7325	2.067697250791058e-06	Inoviridae
+GCF_015161135.1	CrAssphage cr52_1, complete genome	viral	103665	1.865302994448971e-06	Suoliviridae
+GCF_000848725.1	Tobacco necrosis virus D, complete genome	viral	3762	4.3204104258545733e-07	Tombusviridae
+host_human_0000	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0001	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0002	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0003	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0004	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0005	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0006	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0007	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0008	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0009	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0010	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0011	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0012	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0013	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0014	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0015	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0016	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0017	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0018	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0019	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0020	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0021	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0022	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0023	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0024	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0025	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0026	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0027	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0028	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0029	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0030	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0031	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0032	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0033	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0034	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0035	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0036	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0037	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0038	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0039	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0040	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0041	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0042	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0043	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0044	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0045	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0046	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0047	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0048	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0049	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0050	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0051	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0052	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0053	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0054	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0055	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0056	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0057	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0058	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0059	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0060	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0061	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0062	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0063	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0064	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0065	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0066	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0067	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0068	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0069	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0070	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0071	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0072	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0073	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0074	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0075	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0076	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0077	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0078	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0079	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0080	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0081	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0082	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0083	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0084	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0085	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0086	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0087	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0088	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0089	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0090	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0091	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0092	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0093	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0094	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0095	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0096	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0097	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0098	Homo sapiens	contaminant	10000	0.0007776049766718507	
+host_human_0099	Homo sapiens	contaminant	10000	0.0007776049766718507	
+rrna_0000	Bacillus_subtilis_16S_rRNA	contaminant	1544	0.002332814930015552	
+rrna_0001	Escherichia_coli_16S_rRNA	contaminant	1450	0.002332814930015552	
+rrna_0002	Homo_sapiens_5S_rRNA	contaminant	121	0.002332814930015552	
+rrna_0003	Homo_sapiens_5.8S_rRNA	contaminant	157	0.002332814930015552	
+rrna_0004	Mus_musculus_18S_rRNA	contaminant	1870	0.002332814930015552	
+rrna_0005	Methanobrevibacter_smithii_16S_rRNA	contaminant	1268	0.002332814930015552	
+rrna_0006	Salmonella_enterica_16S_rRNA	contaminant	1411	0.002332814930015552	
+rrna_0007	Escherichia_coli_23S_rRNA	contaminant	2904	0.002332814930015552	
+rrna_0008	Lactobacillus_acidophilus_16S_rRNA	contaminant	1110	0.002332814930015552	
+rrna_0009	Escherichia_coli_16S_rRNA	contaminant	1450	0.002332814930015552	
+rrna_0010	Homo_sapiens_5.8S_rRNA	contaminant	157	0.002332814930015552	
+rrna_0011	Prevotella_copri_16S_rRNA	contaminant	1518	0.002332814930015552	
+rrna_0012	Escherichia_coli_16S_rRNA	contaminant	1450	0.002332814930015552	
+rrna_0013	Homo_sapiens_28S_rRNA	contaminant	5070	0.002332814930015552	
+rrna_0014	Bacillus_subtilis_16S_rRNA	contaminant	1544	0.002332814930015552	
+rrna_0015	Pseudomonas_aeruginosa_16S_rRNA	contaminant	1461	0.002332814930015552	
+rrna_0016	Homo_sapiens_5.8S_rRNA	contaminant	157	0.002332814930015552	
+rrna_0017	Staphylococcus_aureus_16S_rRNA	contaminant	1467	0.002332814930015552	
+rrna_0018	Enterococcus_faecalis_16S_rRNA	contaminant	1550	0.002332814930015552	
+rrna_0019	Escherichia_coli_16S_rRNA	contaminant	1450	0.002332814930015552	
+rrna_0020	Enterococcus_faecalis_16S_rRNA	contaminant	1550	0.002332814930015552	
+rrna_0021	Mus_musculus_18S_rRNA	contaminant	1870	0.002332814930015552	
+rrna_0022	Faecalibacterium_prausnitzii_16S_rRNA	contaminant	1462	0.002332814930015552	
+rrna_0023	Homo_sapiens_18S_rRNA	contaminant	1869	0.002332814930015552	
+rrna_0024	Ruminococcus_bromii_16S_rRNA	contaminant	1460	0.002332814930015552	
+rrna_0025	Faecalibacterium_prausnitzii_16S_rRNA	contaminant	1462	0.002332814930015552	
+rrna_0026	Escherichia_coli_5S_rRNA	contaminant	926	0.002332814930015552	
+rrna_0027	Escherichia_coli_5S_rRNA	contaminant	926	0.002332814930015552	
+rrna_0028	Streptococcus_pneumoniae_16S_rRNA	contaminant	1512	0.002332814930015552	
+rrna_0029	Staphylococcus_aureus_16S_rRNA	contaminant	1467	0.002332814930015552	
+rrna_0030	Enterococcus_faecalis_16S_rRNA	contaminant	1550	0.002332814930015552	
+rrna_0031	Mus_musculus_18S_rRNA	contaminant	1870	0.002332814930015552	
+rrna_0032	Pseudomonas_aeruginosa_16S_rRNA	contaminant	1461	0.002332814930015552	
+rrna_0033	Ruminococcus_bromii_16S_rRNA	contaminant	1460	0.002332814930015552	
+rrna_0034	Bifidobacterium_longum_16S_rRNA	contaminant	1486	0.002332814930015552	
+rrna_0035	Pseudomonas_aeruginosa_16S_rRNA	contaminant	1461	0.002332814930015552	
+rrna_0036	Streptococcus_pneumoniae_16S_rRNA	contaminant	1512	0.002332814930015552	
+rrna_0037	Bacillus_subtilis_16S_rRNA	contaminant	1544	0.002332814930015552	
+rrna_0038	Streptococcus_pneumoniae_16S_rRNA	contaminant	1512	0.002332814930015552	
+rrna_0039	Staphylococcus_aureus_16S_rRNA	contaminant	1467	0.002332814930015552	
+rrna_0040	Mus_musculus_18S_rRNA	contaminant	1870	0.002332814930015552	
+rrna_0041	Escherichia_coli_23S_rRNA	contaminant	2904	0.002332814930015552	
+rrna_0042	Homo_sapiens_5.8S_rRNA	contaminant	157	0.002332814930015552	
+rrna_0043	Homo_sapiens_5S_rRNA	contaminant	121	0.002332814930015552	
+rrna_0044	Escherichia_coli_23S_rRNA	contaminant	2904	0.002332814930015552	
+rrna_0045	Homo_sapiens_5.8S_rRNA	contaminant	157	0.002332814930015552	
+rrna_0046	Escherichia_coli_5S_rRNA	contaminant	926	0.002332814930015552	
+rrna_0047	Homo_sapiens_5S_rRNA	contaminant	121	0.002332814930015552	
+rrna_0048	Bacillus_subtilis_16S_rRNA	contaminant	1544	0.002332814930015552	
+rrna_0049	Bifidobacterium_longum_16S_rRNA	contaminant	1486	0.002332814930015552	
+reagent_Delftia_acidovorans_0000	Delftia acidovorans	contaminant	5321868	0.003110419906687403	
+reagent_Pseudomonas_fluorescens_0001	Pseudomonas fluorescens	contaminant	5575793	0.003110419906687403	
+reagent_Burkholderia_cepacia_0002	Burkholderia cepacia	contaminant	3282532	0.003110419906687403	
+reagent_Ralstonia_pickettii_0003	Ralstonia pickettii	contaminant	5283419	0.003110419906687403	
+reagent_Bradyrhizobium_japonicum_0004	Bradyrhizobium japonicum	contaminant	3384340	0.003110419906687403	
+NC_001422.1_PhiX174	Enterobacteria phage phiX174	contaminant	5386	0.0007776049766718507	
+erv_endogenous_0000	HERV HERVL66#LTR/ERVL	contaminant	4329	0.0007776049766718507	
+erv_endogenous_0001	HERV HERV1	contaminant	537	0.0007776049766718507	
+erv_endogenous_0002	HERV HERV16#LTR/ERVL	contaminant	4996	0.0007776049766718507	
+erv_endogenous_0003	HERV HERVIP10B3#LTR/ERV1	contaminant	7603	0.0007776049766718507	
+erv_endogenous_0004	HERV HERV-Fc1	contaminant	476	0.0007776049766718507	
+erv_endogenous_0005	HERV HERV-Fc1#LTR/ERV1	contaminant	4629	0.0007776049766718507	
+erv_endogenous_0006	HERV HERVE	contaminant	7847	0.0007776049766718507	
+erv_endogenous_0007	HERV HERV3#LTR/ERV1	contaminant	8426	0.0007776049766718507	
+erv_endogenous_0008	HERV HERV1	contaminant	535	0.0007776049766718507	
+erv_endogenous_0009	HERV HERVS71#LTR/ERV1	contaminant	8978	0.0007776049766718507	
+erv_exogenous_GCF_000863925.1_0000	Simian immunodeficiency virus	contaminant	9623	0.0007776049766718507	
+erv_exogenous_GCF_000848165.1_0001	Bovine immunodeficiency-like virus	contaminant	8482	0.0007776049766718507	
+erv_exogenous_GCF_000846425.1_0002	Mouse mammary tumor virus	contaminant	8805	0.0007776049766718507	
+erv_exogenous_GCF_000870685.2_0003	Woolly monkey sarcoma virus	contaminant	5779	0.0007776049766718507	
+erv_exogenous_GCF_000850105.1_0004	Feline leukemia virus	contaminant	8448	0.0007776049766718507	

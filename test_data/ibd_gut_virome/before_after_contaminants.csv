@@ -1,0 +1,9 @@
+category,stage,count,proportion
+rRNA,Before QC,6710,1.367
+Host DNA,Before QC,1693,0.345
+PhiX,Before QC,287,0.058
+Reagent Bacteria,Before QC,108,0.022
+rRNA,After QC,326,0.100
+Host DNA,After QC,1,0.000
+PhiX,After QC,0,0.000
+Reagent Bacteria,After QC,108,0.033

@@ -1,0 +1,11 @@
+category,read,count,proportion
+Viral,R1,482123,98.21
+Viral,R2,482123,98.21
+rRNA,R1,6710,1.37
+rRNA,R2,6710,1.37
+Host DNA,R1,1693,0.34
+Host DNA,R2,1693,0.34
+PhiX,R1,287,0.06
+PhiX,R2,287,0.06
+Reagent Bacteria,R1,108,0.02
+Reagent Bacteria,R2,108,0.02

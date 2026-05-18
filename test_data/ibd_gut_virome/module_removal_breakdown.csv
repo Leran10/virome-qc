@@ -1,0 +1,10 @@
+module,category,count
+Dedup,Viral (duplicates),238562
+Dedup,Contaminant (duplicates),4353
+PhiX filter,True PhiX,432
+PhiX filter,Viral (false positive),705
+rRNA filter,True rRNA,9857
+rRNA filter,Viral (false positive),0
+Host filter,True host,2111
+Host filter,Viral (false positive),0
+Pair concordance,Viral (mate removed),73554

@@ -1,0 +1,11 @@
+category,stage,count
+Viral,Before QC,386453
+rRNA,Before QC,54490
+Host DNA,Before QC,38643
+Reagent Bacteria,Before QC,7730
+PhiX,Before QC,386
+Viral,After QC,265746
+rRNA,After QC,651
+Host DNA,After QC,34
+Reagent Bacteria,After QC,7729
+PhiX,After QC,0

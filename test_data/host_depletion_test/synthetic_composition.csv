@@ -1,0 +1,15 @@
+category,read,count,proportion
+Viral,R1,518300,78.31
+Viral,R2,518300,78.31
+rRNA,R1,73085,11.04
+rRNA,R2,73085,11.04
+Host DNA,R1,51823,7.83
+Host DNA,R2,51823,7.83
+Reagent Bacteria,R1,10365,1.57
+Reagent Bacteria,R2,10365,1.57
+ERV (Endogenous),R1,5180,0.78
+ERV (Endogenous),R2,5180,0.78
+ERV (Exogenous),R1,2590,0.39
+ERV (Exogenous),R2,2590,0.39
+PhiX,R1,518,0.08
+PhiX,R2,518,0.08

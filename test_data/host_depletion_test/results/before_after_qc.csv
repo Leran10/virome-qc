@@ -1,0 +1,15 @@
+category,stage,count
+Viral,Before QC,518300
+rRNA,Before QC,73085
+Host DNA,Before QC,51823
+Reagent Bacteria,Before QC,10365
+ERV (Endogenous),Before QC,5180
+ERV (Exogenous),Before QC,2590
+PhiX,Before QC,518
+Viral,After QC,326821
+rRNA,After QC,693
+Host DNA,After QC,37
+Reagent Bacteria,After QC,10358
+ERV (Endogenous),After QC,1422
+ERV (Exogenous),After QC,2500
+PhiX,After QC,0

@@ -11,3 +11,7 @@
 .DS_Store
 report-ui/node_modules/
 benchmark_data/
+
+# ggterm
+.ggterm/
+node_modules/
