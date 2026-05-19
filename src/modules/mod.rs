@@ -61,6 +61,18 @@ pub trait QcModule: Send + Sync {
     /// Process a single annotated read
     fn process(&self, record: &mut AnnotatedRecord);
 
+    /// Process a paired-end read pair together.
+    /// Default implementation processes each mate independently.
+    /// Override for pair-aware modules (e.g., dedup).
+    fn process_pair(&self, r1: &mut AnnotatedRecord, r2: &mut AnnotatedRecord) {
+        if !r1.is_failed() {
+            self.process(r1);
+        }
+        if !r2.is_failed() {
+            self.process(r2);
+        }
+    }
+
     /// Generate aggregate report for this module
     fn report(&self) -> ModuleReport;
 

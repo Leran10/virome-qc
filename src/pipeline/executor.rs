@@ -327,21 +327,21 @@ impl Pipeline {
                 let mut ann_r2 = AnnotatedRecord::new(r2.clone());
 
                 for module in modules {
-                    if !ann_r1.is_failed() {
-                        module.process(&mut ann_r1);
-                    }
-                    if !ann_r2.is_failed() {
-                        module.process(&mut ann_r2);
-                    }
+                    // Use pair-aware processing (dedup hashes R1+R2 together;
+                    // other modules use the default which processes each mate independently)
+                    module.process_pair(&mut ann_r1, &mut ann_r2);
                 }
 
                 // Paired-end concordant flagging:
-                // If one mate is contaminant or host, fail the other (same fragment)
+                // If one mate is contaminant or host, fail the other (same fragment).
+                // Note: pcr_duplicate is NOT included here because pair-aware dedup
+                // already fails both mates together. Including it would cause
+                // unnecessary viral read loss from asymmetric single-end dedup fallback.
                 fn is_concordant_fail(ann: &AnnotatedRecord) -> bool {
                     matches!(
                         &ann.disposition,
                         crate::pipeline::Disposition::Fail(reason)
-                            if reason.starts_with("contaminant_") || reason == "host" || reason == "rrna" || reason == "pcr_duplicate"
+                            if reason.starts_with("contaminant_") || reason == "host" || reason == "rrna"
                     )
                 }
                 if is_concordant_fail(&ann_r1) && !ann_r2.is_failed() {
