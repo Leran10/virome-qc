@@ -1,0 +1,183 @@
+genome_id	genome_name	sequence_type	length	relative_abundance	family
+GCF_001504875.1	Lactobacillus phage CL1, complete genome	viral	39474	0.19219468314299817	Unknown
+GCF_000846045.1	Lactobacillus phage LP65, complete genome	viral	131522	0.11472026010382948	Herelleviridae
+GCF_002618965.1	Coliphage ID62, complete genome	viral	6051	0.08145030237930173	Microviridae
+GCF_000849665.1	Chlamydia phage Chp2, complete genome	viral	4563	0.0689701896208329	Microviridae
+GCF_000882635.1	Lactobacillus phage Lv-1, complete genome	viral	38934	0.07088215969821511	Unknown
+GCF_001507495.1	Lactobacillus phage phi jlb1, complete genome	viral	38269	0.05357908175332874	Unknown
+GCF_002610005.1	Lactobacillus phage P1, complete genome	viral	73787	0.055453735311344426	Unknown
+GCF_002958905.1	Lactobacillus phage Semele, complete genome	viral	139450	0.04662263989004164	Herelleviridae
+GCF_002958875.1	Lactobacillus phage Bacchae, complete genome	viral	141124	0.043202250865653276	Herelleviridae
+GCF_000846285.1	Human papillomavirus type 92, complete genome	viral	7461	0.031412010037522066	Papillomaviridae
+GCF_001744895.1	Lactobacillus phage PLE3, complete genome	viral	41005	0.03498066097178567	Unknown
+GCF_002818545.1	Torque teno midi virus 3 isolate 2PoSMA ORF2 and ORF1 genes, complete cds	viral	2002	0.02235075791094407	Anelloviridae
+GCF_003180355.1	Human papillomavirus type 38, complete genome	viral	7400	0.02245679103899636	Papillomaviridae
+GCF_000898235.1	Human papillomavirus type 135, complete genome	viral	7293	0.023746626725937116	Papillomaviridae
+GCF_018583045.1	Rodent Torque teno virus 8 isolate 2252, complete genome	viral	2325	0.019070261448346396	Anelloviridae
+GCF_001184845.1	Human papillomavirus type 201 isolate HPV201, complete genome	viral	7291	0.018511804316446664	Papillomaviridae
+GCF_000897255.1	Human papillomavirus type 137, complete genome	viral	7236	0.017485679052541475	Papillomaviridae
+GCF_002818785.1	Torque teno midi virus 15 DNA, complete genome, isolate: Pt-TTMDV210	viral	3257	0.013663647681477141	Anelloviridae
+GCF_000846365.1	Human herpesvirus 6B, complete genome	viral	162114	0.009615047708772488	Unknown
+GCF_000859465.1	Human adenovirus 2, complete genome	viral	35937	0.007702915075237129	Adenoviridae
+GCF_000858285.1	Human herpesvirus 3, complete genome	viral	124884	0.008440767017905184	Unknown
+GCF_000889175.1	Human polyomavirus 7, complete genome	viral	4952	0.005215229439840579	Polyomaviridae
+GCF_000845245.1	Human herpesvirus 5 strain Merlin, complete genome	viral	235646	0.006864769295789181	Unknown
+GCF_002402265.1	Human gammaherpesvirus 4, complete genome	viral	171823	0.006281130484350776	Unknown
+GCF_000845685.2	Human betaherpesvirus 6A, variant A DNA, complete virion genome, isolate U1102	viral	159378	0.006260732752805672	Unknown
+GCF_000888495.1	Human polyomavirus 6, complete genome	viral	4926	0.00412029410570033	Polyomaviridae
+host_human_0000	Homo sapiens	contaminant	10000	0.0002701586415317891	
+host_human_0001	Homo sapiens	contaminant	10000	0.00010541401543057154	
+host_human_0002	Homo sapiens	contaminant	10000	0.00012724046650449514	
+host_human_0003	Homo sapiens	contaminant	10000	0.00015164547830695698	
+host_human_0004	Homo sapiens	contaminant	10000	9.89647785015123e-05	
+host_human_0005	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0006	Homo sapiens	contaminant	10000	0.00018451566492178368	
+host_human_0007	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0008	Homo sapiens	contaminant	10000	0.0003028493350798055	
+host_human_0009	Homo sapiens	contaminant	10000	0.0001076174685850914	
+host_human_0010	Homo sapiens	contaminant	10000	3.554334849826964e-05	
+host_human_0011	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0012	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0013	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0014	Homo sapiens	contaminant	10000	0.00010962195513442573	
+host_human_0015	Homo sapiens	contaminant	10000	0.0001260787858576649	
+host_human_0016	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0017	Homo sapiens	contaminant	10000	8.682233034323347e-05	
+host_human_0018	Homo sapiens	contaminant	10000	0.00024387597866264244	
+host_human_0019	Homo sapiens	contaminant	10000	0.0002232519737729951	
+host_human_0020	Homo sapiens	contaminant	10000	0.00019228174775613	
+host_human_0021	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0022	Homo sapiens	contaminant	10000	3.848740436602887e-05	
+host_human_0023	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0024	Homo sapiens	contaminant	10000	0.00012099529222575073	
+host_human_0025	Homo sapiens	contaminant	10000	3.615358157463854e-05	
+host_human_0026	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0027	Homo sapiens	contaminant	10000	0.00010391866772480246	
+host_human_0028	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0029	Homo sapiens	contaminant	10000	0.00015498358892651577	
+host_human_0030	Homo sapiens	contaminant	10000	0.00011169722592052924	
+host_human_0031	Homo sapiens	contaminant	10000	0.00011440328136864938	
+host_human_0032	Homo sapiens	contaminant	10000	0.00023231159262110187	
+host_human_0033	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0034	Homo sapiens	contaminant	10000	0.000127099933585212	
+host_human_0035	Homo sapiens	contaminant	10000	5.730571245744846e-05	
+host_human_0036	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0037	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0038	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0039	Homo sapiens	contaminant	10000	7.337915484421e-05	
+host_human_0040	Homo sapiens	contaminant	10000	0.00012042257649625996	
+host_human_0041	Homo sapiens	contaminant	10000	7.06610455501058e-05	
+host_human_0042	Homo sapiens	contaminant	10000	0.00030349596284599746	
+host_human_0043	Homo sapiens	contaminant	10000	0.00026870403941014575	
+host_human_0044	Homo sapiens	contaminant	10000	0.0002506850261846822	
+host_human_0045	Homo sapiens	contaminant	10000	0.00020354891799225408	
+host_human_0046	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0047	Homo sapiens	contaminant	10000	0.00019025797121411054	
+host_human_0048	Homo sapiens	contaminant	10000	0.00011388545629839452	
+host_human_0049	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0050	Homo sapiens	contaminant	10000	0.0001107138319495852	
+host_human_0051	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0052	Homo sapiens	contaminant	10000	0.0001943333557799142	
+host_human_0053	Homo sapiens	contaminant	10000	8.886928040894958e-05	
+host_human_0054	Homo sapiens	contaminant	10000	0.0001967092407818994	
+host_human_0055	Homo sapiens	contaminant	10000	0.00010821824003393652	
+host_human_0056	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0057	Homo sapiens	contaminant	10000	0.0003092872296688058	
+host_human_0058	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0059	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0060	Homo sapiens	contaminant	10000	0.0001451674302426456	
+host_human_0061	Homo sapiens	contaminant	10000	0.0002685512965481671	
+host_human_0062	Homo sapiens	contaminant	10000	4.8668575892510866e-05	
+host_human_0063	Homo sapiens	contaminant	10000	0.00013580296597778813	
+host_human_0064	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0065	Homo sapiens	contaminant	10000	5.595036696901692e-05	
+host_human_0066	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0067	Homo sapiens	contaminant	10000	9.378171586348693e-05	
+host_human_0068	Homo sapiens	contaminant	10000	0.00020735086483214177	
+host_human_0069	Homo sapiens	contaminant	10000	3.3150345037814515e-05	
+host_human_0070	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0071	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0072	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0073	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0074	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0075	Homo sapiens	contaminant	10000	0.00023128667291789554	
+host_human_0076	Homo sapiens	contaminant	10000	0.00015177201613164105	
+host_human_0077	Homo sapiens	contaminant	10000	0.000193313483871399	
+host_human_0078	Homo sapiens	contaminant	10000	0.00011557235535169537	
+host_human_0079	Homo sapiens	contaminant	10000	0.0002585040256937611	
+host_human_0080	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0081	Homo sapiens	contaminant	10000	9.130031242308568e-05	
+host_human_0082	Homo sapiens	contaminant	10000	0.00027213567254821434	
+host_human_0083	Homo sapiens	contaminant	10000	0.00020620402229576276	
+host_human_0084	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0085	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0086	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0087	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0088	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0089	Homo sapiens	contaminant	10000	0.00020243244736717963	
+host_human_0090	Homo sapiens	contaminant	10000	0.0003679046473188432	
+host_human_0091	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0092	Homo sapiens	contaminant	10000	0.00017685547628655182	
+host_human_0093	Homo sapiens	contaminant	10000	0.00011927245488912887	
+host_human_0094	Homo sapiens	contaminant	10000	0.00014776671465532555	
+host_human_0095	Homo sapiens	contaminant	10000	7.950634777305395e-05	
+host_human_0096	Homo sapiens	contaminant	10000	2.9557632834898344e-05	
+host_human_0097	Homo sapiens	contaminant	10000	3.6369544590195195e-05	
+host_human_0098	Homo sapiens	contaminant	10000	8.20907299830628e-05	
+host_human_0099	Homo sapiens	contaminant	10000	0.00020911148518333516	
+rrna_0000	Bacillus_subtilis_16S_rRNA	contaminant	1544	0.00011823053133959323	
+rrna_0001	Escherichia_coli_16S_rRNA	contaminant	1450	7.890493843664895e-05	
+rrna_0002	Homo_sapiens_5S_rRNA	contaminant	121	6.046263725401581e-05	
+rrna_0003	Homo_sapiens_5.8S_rRNA	contaminant	157	1.7734579700939002e-05	
+rrna_0004	Mus_musculus_18S_rRNA	contaminant	1870	5.2614690544757594e-05	
+rrna_0005	Methanobrevibacter_smithii_16S_rRNA	contaminant	1268	1.7734579700939002e-05	
+rrna_0006	Salmonella_enterica_16S_rRNA	contaminant	1411	7.94587160966723e-05	
+rrna_0007	Escherichia_coli_23S_rRNA	contaminant	2904	0.00010869383439895946	
+rrna_0008	Lactobacillus_acidophilus_16S_rRNA	contaminant	1110	9.932070576759936e-05	
+rrna_0009	Escherichia_coli_16S_rRNA	contaminant	1450	8.909208815386703e-05	
+rrna_0010	Homo_sapiens_5.8S_rRNA	contaminant	157	1.7734579700939002e-05	
+rrna_0011	Prevotella_copri_16S_rRNA	contaminant	1518	9.319224779571941e-05	
+rrna_0012	Escherichia_coli_16S_rRNA	contaminant	1450	2.24173663347747e-05	
+rrna_0013	Homo_sapiens_28S_rRNA	contaminant	5070	9.666902530692454e-05	
+rrna_0014	Bacillus_subtilis_16S_rRNA	contaminant	1544	1.844839755506272e-05	
+rrna_0015	Pseudomonas_aeruginosa_16S_rRNA	contaminant	1461	4.175562851197301e-05	
+rrna_0016	Homo_sapiens_5.8S_rRNA	contaminant	157	6.48482512959672e-05	
+rrna_0017	Staphylococcus_aureus_16S_rRNA	contaminant	1467	5.9907480863704115e-05	
+rrna_0018	Enterococcus_faecalis_16S_rRNA	contaminant	1550	8.608869056554083e-05	
+rrna_0019	Escherichia_coli_16S_rRNA	contaminant	1450	3.9149501009968275e-05	
+rrna_0020	Enterococcus_faecalis_16S_rRNA	contaminant	1550	7.756930680711795e-05	
+rrna_0021	Mus_musculus_18S_rRNA	contaminant	1870	0.00011042760743100932	
+rrna_0022	Faecalibacterium_prausnitzii_16S_rRNA	contaminant	1462	0.00011265896564670571	
+rrna_0023	Homo_sapiens_18S_rRNA	contaminant	1869	5.081050407847334e-05	
+rrna_0024	Ruminococcus_bromii_16S_rRNA	contaminant	1460	1.7734579700939002e-05	
+rrna_0025	Faecalibacterium_prausnitzii_16S_rRNA	contaminant	1462	5.134759359349102e-05	
+rrna_0026	Escherichia_coli_5S_rRNA	contaminant	926	6.322800052932914e-05	
+rrna_0027	Escherichia_coli_5S_rRNA	contaminant	926	4.5982178170068795e-05	
+rrna_0028	Streptococcus_pneumoniae_16S_rRNA	contaminant	1512	1.7734579700939002e-05	
+rrna_0029	Staphylococcus_aureus_16S_rRNA	contaminant	1467	4.8815245791841164e-05	
+rrna_0030	Enterococcus_faecalis_16S_rRNA	contaminant	1550	7.569080741539651e-05	
+rrna_0031	Mus_musculus_18S_rRNA	contaminant	1870	1.7734579700939002e-05	
+rrna_0032	Pseudomonas_aeruginosa_16S_rRNA	contaminant	1461	3.988782192164596e-05	
+rrna_0033	Ruminococcus_bromii_16S_rRNA	contaminant	1460	1.7734579700939002e-05	
+rrna_0034	Bifidobacterium_longum_16S_rRNA	contaminant	1486	5.03565507658768e-05	
+rrna_0035	Pseudomonas_aeruginosa_16S_rRNA	contaminant	1461	0.00011037913870109563	
+rrna_0036	Streptococcus_pneumoniae_16S_rRNA	contaminant	1512	0.00011650589473032182	
+rrna_0037	Bacillus_subtilis_16S_rRNA	contaminant	1544	1.7734579700939002e-05	
+rrna_0038	Streptococcus_pneumoniae_16S_rRNA	contaminant	1512	1.7734579700939002e-05	
+rrna_0039	Staphylococcus_aureus_16S_rRNA	contaminant	1467	6.58238799062863e-05	
+rrna_0040	Mus_musculus_18S_rRNA	contaminant	1870	7.450801487003248e-05	
+rrna_0041	Escherichia_coli_23S_rRNA	contaminant	2904	1.7734579700939002e-05	
+rrna_0042	Homo_sapiens_5.8S_rRNA	contaminant	157	0.00010537236455644458	
+rrna_0043	Homo_sapiens_5S_rRNA	contaminant	121	9.631938151944067e-05	
+rrna_0044	Escherichia_coli_23S_rRNA	contaminant	2904	3.0738829709082814e-05	
+rrna_0045	Homo_sapiens_5.8S_rRNA	contaminant	157	7.499485462222598e-05	
+rrna_0046	Escherichia_coli_5S_rRNA	contaminant	926	5.838781094669033e-05	
+rrna_0047	Homo_sapiens_5S_rRNA	contaminant	121	6.513840740619615e-05	
+rrna_0048	Bacillus_subtilis_16S_rRNA	contaminant	1544	4.37756954057466e-05	
+rrna_0049	Bifidobacterium_longum_16S_rRNA	contaminant	1486	1.7734579700939002e-05	
+reagent_Delftia_acidovorans_0000	Delftia acidovorans	contaminant	5321868	9.852544278299447e-06	
+reagent_Pseudomonas_fluorescens_0001	Pseudomonas fluorescens	contaminant	5575793	9.852544278299447e-06	
+reagent_Burkholderia_cepacia_0002	Burkholderia cepacia	contaminant	3282532	0.00011120667479624361	
+reagent_Ralstonia_pickettii_0003	Ralstonia pickettii	contaminant	5283419	9.852544278299447e-06	
+reagent_Bradyrhizobium_japonicum_0004	Bradyrhizobium japonicum	contaminant	3384340	9.852544278299447e-06	
+NC_001422.1_PhiX174	Enterobacteria phage phiX174	contaminant	5386	0.0005911526566979663	

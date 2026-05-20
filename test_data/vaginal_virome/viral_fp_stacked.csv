@@ -1,0 +1,7 @@
+module,type,count
+PhiX filter,True contaminant,419
+PhiX filter,Viral false positive,32
+rRNA filter,True contaminant,2130
+rRNA filter,Viral false positive,0
+Host filter,True contaminant,5811
+Host filter,Viral false positive,0
